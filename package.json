@@ -1,0 +1,15 @@
+{
+  "name": "task-tracer-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for tracking tasks",
+  "type": "module",
+  "bin":{
+    "task-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "link": "npm link"
+  },
+  "keywords": ["cli", "task-tracer", "nodejs"],
+  "author": "Omar Ramy",
+  "license": "ISC"
+}
